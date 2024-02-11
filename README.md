@@ -4,3 +4,4 @@ Included suits:
 Connor
 
 Removes Racist Knuckles
+Removes Smile
