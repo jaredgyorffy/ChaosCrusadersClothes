@@ -1,7 +1,9 @@
-A custom suit mod for the Chaos Crusaders!
+A custom suit mod for the Chaos Crusaders! Currently includes several of the suits from the default MoreSuits Mod.
 
-Included suits:
-Connor
+Adds suits:
+- Connor
+- Grumpy
 
-Removes Racist Knuckles
-Removes Smile
+Removes Suits:
+-Racist Knuckles
+-Smile
