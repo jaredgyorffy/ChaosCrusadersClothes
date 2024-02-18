@@ -2,7 +2,8 @@ A custom suit mod for the Chaos Crusaders! Currently includes several of the sui
 
 Adds suits:
 - Connor
-- Grumpy
+- Grumpy Bear (Carebears)
+- Socks the Cat
 
 Removes Suits:
 -Racist Knuckles
