@@ -3,8 +3,10 @@ A custom suit mod for the Chaos Crusaders! Currently includes several of the sui
 Adds suits:
 - Connor
 - Grumpy Bear (Carebears)
+- Blastoise (Pokemon)
 - Socks the Cat
 
+
 Removes Suits:
--Racist Knuckles
--Smile
+- Racist Knuckles
+- Smile
