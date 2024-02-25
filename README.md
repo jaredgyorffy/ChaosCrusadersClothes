@@ -13,3 +13,4 @@ Removes Suits:
 - Smile
 - Mario
 - Luigi
+- Skeleton
