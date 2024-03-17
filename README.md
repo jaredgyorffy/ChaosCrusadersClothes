@@ -6,6 +6,8 @@ Adds suits:
 - Blastoise (Pokemon)
 - Socks the Cat
 - Danny Phantom (He's a Phantom)
+- 80's Tracksuit
+- Small but knowing Clown
 
 
 Removes Suits:
