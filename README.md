@@ -1,18 +1,12 @@
-A custom suit mod for the Chaos Crusaders! Also Includes several of the skins from the More Skins Mod.
+Check out my other suit mods!
 
-Adds suits:
-- Connor
-- Grumpy Bear (Carebears)
-- Blastoise (Pokemon)
-- Socks the Cat
-- Danny Phantom (He's a Phantom)
-- 80's Tracksuit
-- Small but knowing Clown
+Chaos Crusaders Clothing: All of my Suits!
+https://thunderstore.io/c/lethal-company/p/ChaosCrusaders/ChaosCrusadersClothing/
 
 
-Removes Suits:
-- Racist Knuckles
-- Smile
-- Mario
-- Luigi
-- Skeleton
+
+This mod adds:
+- Danny Phantom Player Suit, featuring emmisive glow in the dark technology!
+
+This mod does not add:
+- The ability to walk through walls dissapear or fly

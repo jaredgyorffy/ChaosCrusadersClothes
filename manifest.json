@@ -1,8 +1,8 @@
 {
-    "name": "ChaosCrusadersClothing",
-    "version_number": "1.0.10",
+    "name": "DannyPhantomSkin",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/jaredgyorffy/ChaosCrusadersClothes",
-    "description": "All the best fashion for only the most chaotic of crusaders.",
+    "description": "Adds Danny Phantom as an available player skin",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
           "x753-More_Suits-1.4.1"
